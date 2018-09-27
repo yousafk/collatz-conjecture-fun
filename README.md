@@ -1,5 +1,5 @@
 # Collatz Conjecture Fun
-![XKCD Collatz Conjecture Comic](https://www.explainxkcd.com/wiki/images/6/65/collatz_conjecture.png?raw=true)
+![XKCD Collatz Conjecture Comic](https://imgs.xkcd.com/comics/collatz_conjecture.png?raw=true)
 
 ### A fun investigation of the collatz conjecture:
 - ```collatz_max_climb.c``` -- Given any positive integer n, display the number of steps required to reach 1 along with the highest number reach while iterating through the sequence
